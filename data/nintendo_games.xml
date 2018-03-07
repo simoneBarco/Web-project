@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xmlns="http://www.gameside.it"
+		xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+		xsd:schemaLocation="xsd:schemaLocation="http://tecnologie-web.studenti.math.unipd.it/tecweb/~sbarco/data/
+        gamesSchema.xsd">-->
+<games>
+	
+	
+	
+	
+	
+	
+   
+	
+	
+	
+	
+	
+	
+	
+	
+<game>
+                                <ID>2</ID>
+                                <title>Splatoon</title>
+                                <category>gnin</category>
+                                <description>Uno sparatutto fuori dagli schemi che porta l'attenzione sulle battaglie con le pallottole a vernice! Aiutate nei combattienti questi ragazzi, i quali possiedono l'abilitÃÂ  unica di muoversi liberamente attraverso l'inchiostro!</description>
+                                <image>../immagini/games/nintendo/Splatoon.jpg</image>
+                                <date>27-10-2015</date>
+                                <price>39.99</price>
+            </game><game>
+                                <ID>8</ID>
+                                <title>Wii Sports Club</title>
+                                <category>gnin</category>
+                                <description>Sbarcato su Wii nel 2006, Wii Sports ha saputo conquistare milioni di persone in tutto il mondo, grazie ad un sistema di controllo innovativo che faceva della semplicitÃÂ  il proprio punto di forza. I giocatori, per la prima volta, potevano controllare i personaggi sullo schermo con intuitivi movimenti che venivano riprodotti nel gioco grazie al telecomando Wii.Oggi su Wii U ÃÂ¨ possibile rivivere quell'esperienza nello splendore dell'alta definizione, con l'aggiunta di una componente che si promette di arricchire l'esperienza di gioco di ognuno, il Wii U GamePad!</description>
+                                <image>../immagini/games/nintendo/wiisports.jpg</image>
+                                <date>11-08-2014</date>
+                                <price>39.90</price>
+            </game><game>
+                                <ID>1</ID>
+                                <title>Super Mario Bros</title>
+                                <category>gnin</category>
+                                <description>Un classico intramontabile: aiutate Super Mario a farsi strada attraverso questo platform, nel quale dovrete aguzzare l'ingegno livello dopo livello!</description>
+                                <image>../immagini/games/nintendo/newsmbu.png</image>
+                                <date>18-04-2012</date>
+                                <price>23.99</price>
+            </game><game>
+                                <ID>3</ID>
+                                <title>Super Smash Bros</title>
+                                <category>gnin</category>
+                                <description>Cosa succede se prendete tutti i personaggi piÃÂ¹ conosciuti e li mettete in un' arena a combattere tra loro?
+&#13;Credeteci, il risultato ÃÂ¨ un coloratissimo picchiaduro per 4 giocatori nel quale potrete vivere delle divertentissime sfide!</description>
+                                <image>../immagini/games/nintendo/smash_bros.jpg</image>
+                                <date>26-05-2015</date>
+                                <price>49.99</price>
+            </game><game>
+                                <ID>4</ID>
+                                <title>Mario Kart 8</title>
+                                <category>gnin</category>
+                                <description>Mario Kart sbarca finalmente su Wii U, con il miglior gioco mai creato finora! Scegli il tuo veicolo per accettare una sfida con i tuoi amici in grado di superare, per la prima volta, anche le leggi della gravitÃÂ !</description>
+                                <image>../immagini/games/nintendo/PS_WiiU_MarioKart8_PEGI3.png</image>
+                                <date>29-05-2015</date>
+                                <price>34.99</price>
+            </game><game>
+                                <ID>7</ID>
+                                <title>Batman: Arkham Origins</title>
+                                <category>gnin</category>
+                                <description>Batman: Arkham Origins espande Gotham City e si presenta come un prequel la cui storia ÃÂ¨ ambientata prima degli eventi di Batman: Arkham Asylum e Batman: Arkham City, i primi due acclamati capitoli della serie. Ambientato prima della rivolta dei piÃÂ¹ pericolosi criminali di Gotham City, il gioco presenta un giovane e rozzo Batman che affronta un momento chiave nei primi passi della sua carriera di combattente del crimine lungo il percorso per diventare il Cavaliere Oscuro. Nel prosieguo della storia i giocatori incontreranno molti importanti personaggi per la prima volta.</description>
+                                <image>../immagini/games/nintendo/batman.jpg</image>
+                                <date>08-11-2013</date>
+                                <price>39.99</price>
+            </game><game>
+                                <ID>11</ID>
+                                <title>Mario Party 10</title>
+                                <category>gnin</category>
+                                <description>Un Mario Party diventa un Bowser Party, trasformando il giocatore con il GamePad nel terribile antagonista di Mario. Nella modalitÃÂ  "Bowser Party", uno dei giocatori impersona il Re dei Koopa che lancia fuoco e semina il caos tra gli avversari impegnati nei mini-giochi, che dovranno schivare i suoi attacchi. SarÃÂ  ovviamente disponibile anche la classica modalitÃÂ  Mario Party.</description>
+                                <image>../immagini/games/nintendo/marioparty.jpg</image>
+                                <date>20-03-2015</date>
+                                <price>39.90</price>
+            </game><game>
+                                <ID>13</ID>
+                                <title>Lego Jurassic World</title>
+                                <category>gnin</category>
+                                <description>Sulla scia della famosa storia di Jurassic Park, Il Mondo Perduto: Jurassic Park e Jurassic Park III e di Jurassic World, LEGO Jurassic World ÃÂ¨ il primo videogioco in cui i giocatori potranno rivivere le avventure di tutti e quattro i film della serie Jurassic. Reimmaginato in forma LEGO e raccontato con il classico humor LEGO da TT Games, l'emozionante avventura ricrea scene indimenticabili e sequenze d'azione tratte dai film, consentendo ai fans di giocare i momenti chiave e dando loro la possibilitÃÂ  di esplorare tutti gli immensi ambienti dell'Isola di Nublar e dell'Isola di Sorna.</description>
+                                <image>../immagini/games/nintendo/jurassic.jpg</image>
+                                <date>10-07-2015</date>
+                                <price>39.90</price>
+            </game><game>
+                                <ID>10</ID>
+                                <title>Mario &amp; Sonic ai Giochi Olimpici di Rio 2016</title>
+                                <category>gnin</category>
+                                <description>Tutti i tuoi personaggi preferiti di Mario e Sonic sono pronti a competere a Rio, la cittÃÂ  che ospiterÃÂ  i Giochi Olimpici nell'agosto del 2016. Scatena la rivalitÃÂ  sportiva in frenetici sport olimpici come il calcio e il tennistavolo nella versione per Nintendo 3DS, o lotta per il primo posto nella versione per Wii U, che include sport come il calcio, il rugby e il beach volley! Fanno il loro debutto due nuovi eventi: il Rugby a 7 e la Ginnastica ritmica.</description>
+                                <image>../immagini/games/nintendo/rio2016.jpg</image>
+                                <date>24-06-2016</date>
+                                <price>49.99</price>
+            </game><game>
+                                <ID>5</ID>
+                                <title>Wii U</title>
+                                <category>cnin</category>
+                                <description>Nintendo entra nel mercato mondiale con Wii U, ultimo modello della casa. La console prevede il supporto di un Pad in grado di collegarsi wireless alla piattaforma, sfruttando lo schermo incorporato al joystick per giocare dove si preferisce in tutta tranquillitÃÂ .</description>
+                                <image>../immagini/games/nintendo/Wii_U_Console_and_Gamepad.png</image>
+                                <date>30-11-2012</date>
+                                <price>249.99</price>
+            </game><game>
+                                <ID>15</ID>
+                                <title>Nintendo Wii U Controller</title>
+                                <category>cnin</category>
+                                <description>Controller da collegare alla console Wii per un'esperienza di gioco piÃÂ¹ completa.</description>
+                                <image>../immagini/games/nintendo/CI_WiiU_Controller_Black_CMM_big.png</image>
+                                <date>01-01-2014</date>
+                                <price>49.99</price>
+            </game><game>
+                                <ID>14</ID>
+                                <title>Nintendo Wii U Microfono</title>
+                                <category>cnin</category>
+                                <description>Microfono compatibile con Wii controller per un' esperienza di gioco piÃÂ¹ interessante.</description>
+                                <image>../immagini/games/nintendo/CI_WiiU_Accessories_MicrophonePackshot_CMM_big.png</image>
+                                <date>27-08-2014</date>
+                                <price>19.99</price>
+            </game></games>

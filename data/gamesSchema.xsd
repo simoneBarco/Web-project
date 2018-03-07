@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+
+
+    <xsd:element name="games">
+    	<xsd:complexType>
+    		<xsd:sequence>
+    			<xsd:element name="game" maxOccurs="unbounded" type="gameType"/>
+    		</xsd:sequence>
+    	</xsd:complexType>
+    </xsd:element>
+
+    <xsd:complexType name="gameType">
+    	<xsd:all>
+            <xsd:element name="ID" type="xsd:positiveInteger"/>
+    		<xsd:element name="title" type="xsd:string"/>
+    		<xsd:element name="category" type="xsd:string"/>
+            <xsd:element name="description" type="xsd:string"/>
+    		<xsd:element name="image" type="urlType"/>
+    		<xsd:element name="price">
+                <xsd:simpleType>
+                    <xsd:restriction base="xsd:decimal">
+                        <xsd:fractionDigits value="2"/>
+                        <xsd:pattern value="\d{2,}.\d{1,}"/><!--sistemare regexp-->
+                    </xsd:restriction>
+                </xsd:simpleType>
+            </xsd:element>
+            <xsd:element name="date">
+                <xsd:simpleType>
+                    <xsd:restriction base="xsd:string">
+                        <xsd:pattern value="\d{2}-\d{2}-\d{4}"/>
+                        <xsd:length value="10"/>
+                    </xsd:restriction>
+                </xsd:simpleType>
+            </xsd:element>
+    	</xsd:all>
+    </xsd:complexType>
+
+
+	<xsd:simpleType name="urlType">
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="..(\/\w+){2,3}\/(([a-z]|[A-Z]|[0-9])+(\-+|\.|\_)+)+([png,jpg,bmp])+"/><!--sistemare questa regexp-->
+		</xsd:restriction>
+	</xsd:simpleType>
+
+</xsd:schema>

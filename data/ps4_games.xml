@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xmlns="http://www.gameside.it"
+		xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+		xsd:schemaLocation="xsd:schemaLocation="http://tecnologie-web.studenti.math.unipd.it/tecweb/~sbarco/data/
+        gamesSchema.xsd">-->
+<games>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<game>
+                                <ID>7</ID>
+                                <title>NBA Live 2K16</title>
+                                <category>gps4</category>
+                                <description>Amanti del basket? Allora non potete farvi sfuggire l'ultimo gioiellino nel settore della pallacanestro, aggiornato con tutte le squadre americane e con nuove, interessanti funzionalitÃÂ  per sentirvi ancora di piÃÂ¹ all'interno del campo!</description>
+                                <image>../immagini/games/ps4/NBA.jpg</image>
+                                <date>01-10-2015</date>
+                                <price>34.99</price>
+            </game><game>
+                                <ID>8</ID>
+                                <title>Journey</title>
+                                <category>gps4</category>
+                                <description>Tre giochi racchiusi in un solo disco: Journey, Flower e Flow, i tre titoli principali del catalogo di Thatgamecompany, studio fondato da Jenova Chen. Questa compilation include le versioni PS4 dei tre giochi in questione, in modo tale da poterli portare sempre con voi!</description>
+                                <image>../immagini/games/ps4/Journey.jpg</image>
+                                <date>02-10-2015</date>
+                                <price>29.99</price>
+            </game><game>
+                                <ID>13</ID>
+                                <title>Grand Theft Auto V</title>
+                                <category>gps4</category>
+                                <description>Torna su console uno dei classici piu'amati di sempre, nel quale dovrete farvi spazio in mezzo alla malavita americana sfruttando non uno, ma ben tre protagonisti diversi! Riuscirete a diventare i piu' ricchi e famigerati personaggi di Los Santos? Oltre alla modalita' storia il gioco propone anche un'interessante modalita' online, nella quale potrete farvi un nome a livello globale attraverso rapine e combattimenti tra gang.</description>
+                                <image>../immagini/games/ps4/gta.jpg</image>
+                                <date>12-07-2015</date>
+                                <price>49.99</price>
+            </game><game>
+                                <ID>1</ID>
+                                <title>Disgaea 5 </title>
+                                <category>gps4</category>
+                                <description>NIS ci offre un nuovo capitolo della saga di Disgaea, particolare strategico a turni nei quali vestirete i panni di una strampalata Resistenza contro l'imperatore Void Dark. Riuscirete a salvare l'universo?</description>
+                                <image>../immagini/games/ps4/Disgaea_5_-_Alliance_of_Vengeance.png</image>
+                                <date>24-10-2014</date>
+                                <price>34.99</price>
+            </game><game>
+                                <ID>3</ID>
+                                <title>Dark Souls III </title>
+                                <category>gps4</category>
+                                <description>Mentre l'incendio svanisce e il mondo cade in rovina, lo sviluppatore FROMSOFTWARE e il direttore Hidetaka Miyazaki continuano l'amata serie Souls con Dark Souls III. Sia fan affezionati che nuovi si tufferanno nel gioco con un gratificante gameplay ed una grafica immersiva. Ora rimane solo la cenere...</description>
+                                <image>../immagini/games/ps4/darksoulsps4.jpg</image>
+                                <date>01-01-1980</date>
+                                <price>59.99</price>
+            </game><game>
+                                <ID>2</ID>
+                                <title>Call of Duty Black Ops</title>
+                                <category>gps4</category>
+                                <description>La saga di Black Ops, sviluppata da Treyarch, trova finalmente fine nel terzo capitolo della serie, ambientato 40 anni dopo l'ultimo capitolo.
+&#13;Oltre alla modalitÃÂ  storia sono sempre presenti le modalitÃÂ  online e zombie, classiche presenze del filone Black Ops.</description>
+                                <image>../immagini/games/ps4/Cod_BO3.jpg</image>
+                                <date>05-11-2015</date>
+                                <price>50.99</price>
+            </game><game>
+                                <ID>9</ID>
+                                <title>Samurai Warriors IV</title>
+                                <category>gps4</category>
+                                <description>La versione aggiornata di Samurai Warriors 4 arriva in Europa: questa riedizione del gioco presenta nuovi personaggi, ambientazioni inedite e un combat system rivisitato cosÃÂ¬ da risultare piÃÂ¹ fluido e dinamico. Il gioco include anche tutti i DLC giÃÂ  pubblicati per il titolo originale, cosÃÂ¬ da offrire ai giocatori un pacchetto completo e variegato.</description>
+                                <image>../immagini/games/ps4/Samurai_Warriors.jpg</image>
+                                <date>02-10-2015</date>
+                                <price>39.99</price>
+            </game><game>
+                                <ID>10</ID>
+                                <title>Transformers</title>
+                                <category>gps4</category>
+                                <description>Transformers Devastation vede protagonisti i robot della "G1", la prima generazione di Transformers, popolarissimi grazie alla serie TV degli anni '80. Anche questa volta gli Autobot (guidati dal leader Optimus Prime) dovranno vedersela con i temibili Decepticon, gruppo capitanato dallo spietato Megatron, impegnato a portare avanti il suo piano di conquista della Terra. Transformers Devastation ÃÂ¨ un gioco d'azione che si distingue non solo per un combat system frenetico e veloce, ma anche per la presenza di numerosi personaggi tratti proprio dalla prima serie dei Transformers!</description>
+                                <image>../immagini/games/ps4/Transformers.jpg</image>
+                                <date>09-10-2015</date>
+                                <price>29.99</price>
+            </game><game>
+                                <ID>11</ID>
+                                <title>Tales of Zestiria</title>
+                                <category>gps4</category>
+                                <description>Tales of Zestiria ÃÂ¨ il nuovo episodio della popolare saga di JRPG targata Bandai Namco, realizzato per festeggiare il ventesimo anniversario della serie. Questa volta il giocatore ÃÂ¨ chiamato a vestire i panni di Sorey, giovane guerriero alle prese con una pericolosa minaccia conosciuta come "Malevolence", una forza misteriosa e malvagia che sta minacciando l'umanitÃÂ . Rispetto ai precedenti episodi, Tales of Zestiria presenta un combat system rivisitato per risultare piÃÂ¹ dinamico e veloce, con l'aggiunta di combo e nuove tecniche di lotta per i protagonisti. Lo stile grafico colorato e vivace conquisterÃÂ  gli appassionati del genere, che si troveranno a loro agio nel brillante mondo di Zestiria.</description>
+                                <image>../immagini/games/ps4/Tales_of.jpg</image>
+                                <date>16-10-2015</date>
+                                <price>44.99</price>
+            </game><game>
+                                <ID>12</ID>
+                                <title>Adventure Time</title>
+                                <category>gps4</category>
+                                <description>Nuova avventura per Jake e Finn: questa volta i protagonisti della serie Adventure Time si troveranno a indagare su misteri e sparizioni nella Terra di Ooo. Girovagando per la cittÃÂ , inconterete testimoni da interrogare e v'imbatterete in curiosi enigmi da risolvere per fare luce sui singoli casi che hanno tolto il sonno ai nostri due aspiranti detective.</description>
+                                <image>../immagini/games/ps4/Adv._time.jpg</image>
+                                <date>24-11-2015</date>
+                                <price>39.99</price>
+            </game><game>
+                                <ID>14</ID>
+                                <title>Assassin's Creed: Syndicate</title>
+                                <category>gps4</category>
+                                <description>Siamo nel 1868, a Londra, in piena evoca vittoriana. E' questa l'ambientazione scelta da Ubisoft per il nuovo episodio di Assassin's Creed, che arriva esattamente dodici mesi dopo il non particolarmente esaltante Assassin's Creed Unity. Protagonisti dell'avventura sono i fratelli Jacob ed Evie Frye, i quali saranno chiamati a guidare la rivoluzione popolare scoppiata in cittÃÂ  a seguito dell'oppressione messa in atto dai ricchi industriali londinesi nei confronti dei lavoratori. Syndicate propone alcune interessanti novitÃÂ  per quanto riguarda il gameplay, come la possibilitÃÂ  di guidare una vera e propria squadra di combattenti, inoltre sono disponibili nuove armi tra cui il tirapugni, il bastone animato e la rivoltella.</description>
+                                <image>../immagini/games/ps4/Assassins_creed.jpg</image>
+                                <date>27-10-2015</date>
+                                <price>59.99</price>
+            </game><game>
+                                <ID>4</ID>
+                                <title>Need for Speed</title>
+                                <category>gps4</category>
+                                <description>Se amate le macchine e le corse clandestine non potete fare a meno di questo titolo!  Electronic Arts ha infatti creato un reboot mozzafiato della serie, che garantisce numerosissime gare al cardiopalma.
+&#13;Il gioco vanta inoltre un sistema di potenziamento e di modifiche estetiche molto ampio, unito a una scelta non indifferente di automobili.</description>
+                                <image>../immagini/games/ps4/NfS_ps4.jpg</image>
+                                <date>05-11-2015</date>
+                                <price>50.99</price>
+            </game><game>
+                                <ID>5</ID>
+                                <title>Playstation 4</title>
+                                <category>cps4</category>
+                                <description>L'ottava generazione di casa Sony ÃÂ¨ finalmente entrata in commercio! Disponibile in due capacitÃÂ  di memoria: 512 GB e 1 TB</description>
+                                <image>../immagini/games/ps4/ps4.png</image>
+                                <date>29-11-2013</date>
+                                <price>399.99</price>
+            </game><game>
+                                <ID>6</ID>
+                                <title>Controller Dualshock 4</title>
+                                <category>cps4</category>
+                                <description>Controller ufficiale di casa Sony, l'unico finora compatibile con una Playstation 4. Disponibile in varie colorazioni.</description>
+                                <image>../immagini/games/ps4/ps4-stockblack_2.png</image>
+                                <date>29-11-2013</date>
+                                <price>59.99</price>
+            </game><game>
+                                <ID>15</ID>
+                                <title>Cuffie Gaming</title>
+                                <category>cps4</category>
+                                <description>Cuffie di alta precisione con ottima chiarezza del suono, per immedesimarsi perfettamente nel gioco.
+&#13;Il connettore di 3.5mm ÃÂ¨ adatto a iPhone 6/6, Samsung S5, S4, LG, Xiaomi, iPad, PS4, PC, laptop, ecc.
+&#13;</description>
+                                <image>../immagini/games/ps4/cuffie.png</image>
+                                <date>15-09-2015</date>
+                                <price>39.99</price>
+            </game></games>

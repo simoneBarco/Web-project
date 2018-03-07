@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+
+    <xsd:element name="database">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="utente" maxOccurs="unbounded" type="usrType"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:complexType name="usrType">
+        <xsd:all>
+            <xsd:element name="nome" type="xsd:string"/>
+            <xsd:element name="cognome" type="xsd:string"/>
+            <xsd:element name="email">
+                <xsd:simpleType>
+                    <xsd:restriction base="xsd:string">
+                        <xsd:pattern value="([\w\-\+\.]+)@([\w\-\+\.]+)\.([\w\-\+\.]+)"/>
+                    </xsd:restriction>
+                </xsd:simpleType>
+            </xsd:element><!--da sistemare-->
+            <xsd:element name="nickname" type="xsd:string"/>
+            <xsd:element name="pwd" type="xsd:string"/>
+        </xsd:all>
+    </xsd:complexType>
+</xsd:schema>

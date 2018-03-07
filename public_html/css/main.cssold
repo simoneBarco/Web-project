@@ -1,0 +1,546 @@
+
+
+body {
+    background-color: #cbe7cb;
+    margin:0;
+    padding: 0;
+    border:0;
+}
+/*games tenuto separatamente nel caso decidiamo di cambiarlo*/
+.shadows, .games{
+	box-shadow: 5px 5px 5px #669966;
+	background-color: #A9D9A9;
+}
+#left h1{
+	box-shadow: 5px 5px 5px #669966;
+}
+/*contenuto rientrato*/
+#logoBox, #footer div, .comments, .gameDescription img, #panelRegolamento {
+	-webkit-box-shadow: inset -8px 3px 8px 0px #669966;
+	-moz-box-shadow:    inset -8px 3px 8px 0px #669966;
+	box-shadow:         inset -8px 3px 8px 0px #669966;
+
+	background-color:	#95d095;
+}
+
+
+#main_container {
+	width: 100%;
+	margin-top: 9em;
+}
+
+#content_container{
+	width: 90%;
+	margin: auto;
+}
+
+/*link per tornare in cima alla pagina*/
+#goTop{
+	position: fixed;
+	bottom:1em;
+	right:5%;
+	z-index: 1;
+}
+
+
+#top{
+	position: fixed;
+	width: 90%;
+	top: 0em;
+	margin-left: 5%;
+	z-index: 1;
+}
+
+
+#top_section #logoBox h1, h2{
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+/*Gestione logo Gameside nella parte superiore della pagina*/
+#logoBox h1{
+	font-size: 4em;
+	text-shadow: 5px 5px 5px #888888;
+}
+#logoBox h2{
+	font-family: cursive;
+	text-shadow: 2px 2px #888888;
+}
+#p1{
+	color: #006600;
+}
+#p2{
+	color: #FF6600;
+}
+
+/*top diviso in 3 parti:logo, login e bottom(contiene la ricerca e la mappa)*/
+#logoBox{
+	width: 75%;
+	float: left;
+}
+
+#logo a{
+	text-decoration: none;/*tolgo decoration al logo*/
+}
+
+#loginBox{
+	float: right;
+	width:25%;
+}
+
+#bottom_section {
+	display: block;
+	margin-top: 1%;
+}
+
+/*il panel della ricerca e mappa*/
+#map{
+	display: inline-flex;
+	top:9em;
+	width: 100%;
+}
+
+#map p {
+	margin: 0;
+	width:100%;
+}
+
+#map form div{
+	display: inline-flex;
+}
+
+
+#center{
+
+	/*position: relative;
+	margin-top: 9em;
+	width: 100%;*/
+	min-height: 27em;/*visualizzato bene anche senza ma meglio cosi'*/
+	box-shadow: 1px 1px 1px #669966;
+
+}
+
+#menuButton input{
+	display:none;
+}
+
+#left{
+	position: fixed;
+	width:15%;
+	min-width: 8em;
+	max-width: 15em;
+	margin-top: 2em;
+}
+#left ul{
+	padding-left: 0em;
+}
+#left li{
+	list-style:none;
+	padding-left: 2em;
+	border-bottom: 2px solid #FFFFFF;
+}
+
+
+#left a{
+	text-decoration: none;
+	display: block;
+	margin-left: -2em;
+    padding-left: 2em;
+}
+
+
+#left h2{
+	font-size: 1em;
+}
+
+#left h1{
+	font-size: 1.3em;
+	background-color: #96cf96;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	margin-left: -2em;
+	padding-left: 1em;
+	color: #347cb0;
+}
+
+#left h2{
+	margin-left: -2em;
+    padding-left: 2em;
+}
+
+#pageCurr {
+	background-color: #FFFFFF !important;
+}
+
+#left li:hover, #left h1:hover{
+	background-color: #FFFFFF ;
+}
+
+
+
+#content{
+	padding-top: 4em;
+	padding-left: 18%;
+}
+
+#content textarea{
+	width:100%;
+	resize: vertical;
+}
+
+.games{
+	float: left;
+    margin: 1em;
+    width: 13.3em;
+}
+
+.picture img{
+	width:12em;
+	height: 16em;
+	border:solid 2px #FFFFFF;
+	padding: 0.5em;
+}
+
+
+
+#footer{
+	margin-top: 0.5em;
+    bottom: 0px;
+    padding-left: 18%;
+}
+#footer div{
+	float:left;
+	width:30%;
+	min-width: 15em;
+	font-size: .8em;
+	margin:1em;
+}
+#footer h1{
+	text-shadow: 2px 2px #888888;
+	text-align: center;
+}
+
+.clearFloat {
+	clear: both;
+}
+
+.errori {
+	color:red;
+	margin-left:1%;
+}
+
+.suggerimento{
+   color: grey;
+   margin-left: 1%;
+}
+
+
+/* per la pagina e la lista degli eventi*/
+.event{
+	box-shadow: 2px 2px 2px #888888;
+	margin-bottom: 0.3em;
+	background-color: #95d095;
+}
+
+
+
+.event img{
+	height:9em;
+	width:16em;
+	border:solid 2px #FFFFFF;
+	padding: 0.5em;
+}
+
+.event h1, h2{
+}
+
+
+
+.eventdescription{
+	display:flex;
+	width:100%;
+}
+.eventdescription div{
+	width:100%;
+}
+
+.eventcontent {
+	display: flex;
+	position: relative;
+}
+
+.eventcontent:hover
+{
+	background-color: #FFFFFF;
+}
+
+
+/*panello amministratore per modifica e eliminazione del contenuto*/
+.controlPanel{
+	display:flex;
+}
+
+.controlPanel img{
+	height:2em;
+	width:2em;
+	border:none;
+	padding: 0em;
+}
+
+/*per l'evento singolo*/
+.eventImmage {
+display: inline-block;
+width:100%;
+box-shadow: 2px 2px 2px #888888;
+background-color: #95d095;
+
+}
+.eventImmage img{
+	width:20em;
+	height: 16em;
+	border:solid 2px #FFFFFF;
+	padding: 0.5em;
+	float: left;
+	margin-right: 1em;
+}
+
+
+.comments{
+	display: inline-block;
+	width: 100%;
+	margin-top: 1em;
+	padding-bottom: 0.5em;
+	border:solid 2px #FFFFFF;
+
+}
+
+.utente{
+	float: left;
+	margin-right: 1em;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+.utente h1, h2{
+	margin-top: 0em;
+}
+
+
+/*per gioco singolo*/
+.gameDescription {
+display: inline-block;
+box-shadow: 2px 2px 2px #888888;
+background-color: #B2D1D1;
+width:100%;
+}
+.gameDescription h1{
+	text-shadow: 5px 5px 5px #888888;
+}
+.gameDescription img{
+	width:16em;
+	border:solid 2px #FFFFFF;
+	padding: 0.5em;
+	float: left;
+	margin-right: 1em;
+
+}
+
+/* pagina chi shiamo*/
+#chiSiamo img{
+	width:50%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+}
+
+
+#chiSiamo h1, #chiSiamo h2{
+	text-align: center;
+}
+
+#panelRegolamento, #panelMappa{
+
+	/* stesso per amministrazione
+		height:0;
+		overflow: hidden;
+		*/
+
+	    /*-webkit-transition: height 2s;  per Safari 3.1 - 6.0  da w3cschools.com*/
+    	/*transition: height 2s;*/
+
+		width: 99%;
+		border:solid 2px #FFFFFF;
+}
+
+#panelRegolamento{
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+#panelRegolamento h1{
+	font-size: 1.5em;
+}
+
+/*
+#regolamento:checked + #panelRegolamento{
+	height:20em;
+	overflow: auto;
+}
+*/
+/*
+#panelMappa{
+		height:0;
+		overflow: hidden;
+	    -webkit-transition: height 2s;
+    	transition: height 2s;
+		width: 99%;
+		border:solid 2px #FFFFFF;
+}
+*/
+/*
+#mostraMappa:checked + #panelMappa{
+	height:30em;
+}
+*/
+
+#gmap img{
+	width:100%;
+}
+
+/*amministrazione, mantieni immagine precedente via css se javascript disabilitato, per ora non valida, da vedere se lo facciamo funzionare
+#mantieniImg:checked + #lImg{
+    display: none;
+}
+
+#lImg{
+    display: block;
+}
+*/
+#loginLink{
+	display:none;
+}
+/* colori dei link*/
+a:visited{
+	color: #7D1472;
+}
+a:link {
+    color: #131387;
+}
+
+.eventlink{
+	color:transparent;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+/*media querry, dimensione browser molto piccola e per i device mobile*/
+@media screen and (max-width: 801px)
+	  ,screen and (max-device-width: 400px) and (orientation: portrait)
+	   ,screen and (max-device-width: 640px) and (orientation: landscape)
+
+{
+
+	#menuButton input{
+	display:block;
+	}
+	#menuButton{
+		background-image: url("../immagini/menu.png");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: 100% 100%;
+		position:fixed;
+		right:5%;
+		top:0;
+		width:10em;
+		height: 10em;
+		z-index: 3;
+	}
+	#left{
+		float:right;
+		width:50%;
+		max-width: 100%;
+		margin-top:-1em;
+		margin-left: -5%;
+		left:50%;
+	}
+
+	#menuButton #icon{
+		height: 100%;
+		width:100%;
+		position:absolute;
+		top:0;
+		right: 0;
+		z-index: 1;
+		/*background: url("menu-icon.png");*/
+	}
+
+	#loginLink{
+	display:block;
+}
+
+	#content{
+	padding-left: 0;
+	}
+
+	#loginBox{
+		display:none;
+	}
+
+	#map{
+		display:block;
+	}
+
+
+	#mcb{
+		opacity: 0;
+		cursor:pointer;
+		width:100%;
+		height: 100%;
+	}
+
+	#mcb:checked + #left{
+		display:none;
+	}
+
+	#footer{
+		padding-left: 0;
+	}
+
+}
+
+@media print {
+
+
+	#menuButton, #loginBox, #bottom_section, #goTop, .controlPanel, input, .eventDescription h1, #footer{
+		display: none;
+	}
+	#top{/*lascio shadows per dare una separazione e' un layout anche in stampa*/
+		position: static;
+		top:0;
+	}
+	#logoBox{
+		width:100%;
+	}
+
+	#main_container{
+		margin:0;
+	}
+
+	#content_container{
+		width:100%;
+	}
+	#content{
+		padding:0;
+		min-height: none;
+	}
+	#content div{
+		margin:	0;
+		padding: 0;
+	}
+	.games{/* shadows tolte per risparmiare almeno un po' di inchistro*/
+		box-shadow: none;
+	}
+   .descrizione{
+   	display:flex;
+   }
+}

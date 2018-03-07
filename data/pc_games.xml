@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xmlns="http://www.gameside.it"
+		xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+		xsd:schemaLocation="xsd:schemaLocation="http://tecnologie-web.studenti.math.unipd.it/tecweb/~sbarco/data/
+        gamesSchema.xsd">-->
+<games>
+    
+    
+    
+    
+     
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<game>
+                                <ID>4</ID>
+                                <title>Star Wars: Battlefront</title>
+                                <category>gpc</category>
+                                <description>Un vero fan di Guerre Stellari non puÃÂ² farsi sfuggire un gioco del genere, nel quale potrete rivivere le battaglie piÃÂ¹ famose della saga cinematografica, viste dagli occhi dei soldati delle varie fazioni!
+&#13;Un gioco a dir poco esplosivo!</description>
+                                <image>../immagini/games/pc/Battlefront.jpg</image>
+                                <date>24-01-2016</date>
+                                <price>59.99</price>
+            </game><game>
+                                <ID>17</ID>
+                                <title>Wolfenstein: The Old Blood</title>
+                                <category>gpc</category>
+                                <description>La celebre saga steampunk ritorna anche su Playstation 4, offrendo un'esperienza di gioco intensa e coinvolgente nella quale, come sempre, dovrete affrontare schiere di soldati nemici!
+&#13;Il gioco comprende anche l'espansione "The Old Blood", nella quale sono presenti nuove armi, un nuovo arco narrativo e mappe per il multigiocatore.</description>
+                                <image>../immagini/games/pc/Wolfenstein.jpg</image>
+                                <date>10-10-2014</date>
+                                <price>49.99</price>
+            </game><game>
+                                <ID>18</ID>
+                                <title>Total War: Attila</title>
+                                <category>gpc</category>
+                                <description>La strategia ha sempre dominato le battaglie della storia umana, ma come si potevano adattare al barbarico stile degli Unni? 
+&#13;Il nuovo capitolo di Total War ci da proprio questa risposta, permettendovi di essere proprio il re degli unni che mise a soqquadro il potente impero romano!</description>
+                                <image>../immagini/games/pc/Total_War.jpg</image>
+                                <date>06-07-2015</date>
+                                <price>39.99</price>
+            </game><game>
+                                <ID>21</ID>
+                                <title>Life is Strange</title>
+                                <category>gpc</category>
+                                <description>Con l'uscita dell'ultimo capitolo di Life is Strangenon poteva non uscire l'edizione in cofanetto del videogioco, comprensiva di tutti i capitoli finora usciti in formato digitale. 
+&#13;Non perdetevi questa interessante avventura che, fino ad ora, ha riscosso un notevole successo in termini di pubblico e critica.</description>
+                                <image>../immagini/games/pc/Life_is_Strange.jpg</image>
+                                <date>05-10-2015</date>
+                                <price>29.99</price>
+            </game><game>
+                                <ID>14</ID>
+                                <title>Fifa 16</title>
+                                <category>gpc</category>
+                                <description>FIFA 16 si ÃÂ¨ rinnovato in ogni zona del campo, per offrire un'esperienza bilanciata, realistica ed entusiasmante e permetterti di giocare come vuoi per competere ai massimi livelli, il tutto corredato da nuovi modi per giocare!</description>
+                                <image>../immagini/games/pc/fifa.jpg</image>
+                                <date>24-09-2015</date>
+                                <price>49.90</price>
+            </game><game>
+                                <ID>1</ID>
+                                <title>Mad Max</title>
+                                <category>gpc</category>
+                                <description>In concomitanza con l'uscita del film non poteva mancare una versione videoludica di Mad Max, nella quale dovrete impersonare proprio il protagonista del film e rivivere le sue gesta. Riuscirete a sopravvivere in questo mondo post-apocalittico?</description>
+                                <image>../immagini/games/pc/Mad_Max.jpg</image>
+                                <date>24-08-2015</date>
+                                <price>59.99</price>
+            </game><game>
+                                <ID>8</ID>
+                                <title>Assassin's Creed Syndicate</title>
+                                <category>gpc</category>
+                                <description>Londra, 1868. La Rivoluzione Industriale ha portato la societÃÂ  in un'era di incredibili invenzioni, trasformando la vita di milioni di persone con tecnologie una volta impensabili. Le opportunitÃÂ  offerte da queste trasformazioni hanno attirato a Londra miriadi di persone ansiose di partecipare ai cambiamenti offerti da questo nuovo mondo. Un mondo non piÃÂ¹ governato da Re, Imperatori, politici o religioni ma da un nuovo sovrano: il denaro. ÃÂ in questo preciso momento che fa la sua apparizione l'Assassino Jacob Frye, che, con l'aiuto della sua sorella gemella Evie, cambierÃÂ  il destino di milioni di persone nel nuovo Assassin's Creed Syndicate.</description>
+                                <image>../immagini/games/pc/assCreed.jpg</image>
+                                <date>19-11-2015</date>
+                                <price>39.90</price>
+            </game><game>
+                                <ID>9</ID>
+                                <title>Grand Theft Auto V</title>
+                                <category>gpc</category>
+                                <description>L'acclamatissimo e pluripremiato gioco a esplorazione libera Grand Theft Auto V, sbarca sui sistemi di nuova generazione.
+&#13;Grand Theft Auto V per PC sfrutterÃÂ  al massimo la potenza del PC presentandosi al meglio sotto ogni aspetto, dalla risoluzione e resa dei dettagli, entrambe migliorate, alla possibilitÃÂ  di un traffico piÃÂ¹ denso, dalla maggiore profonditÃÂ  di campo all'IA resa piÃÂ¹ efficiente, dalla presenza di nuovi animali a un sistema climatico piÃÂ¹ avanzato e a danni piÃÂ¹ complessi... tutto questo per offrire la migliore esperienza di esplorazione libera di sempre.</description>
+                                <image>../immagini/games/pc/gtapc.jpg</image>
+                                <date>14-04-2015</date>
+                                <price>59.99</price>
+            </game><game>
+                                <ID>10</ID>
+                                <title>The Sims 4</title>
+                                <category>gpc</category>
+                                <description>The Sims 4 ÃÂ¨ l'attesissimo videogioco che permette di simulare la vita come mai prima d'ora! Crea e controlla Sims con personalitÃÂ  spiccate, nuove emozioni e aspetti differenti.</description>
+                                <image>../immagini/games/pc/thesims.jpg</image>
+                                <date>04-09-2014</date>
+                                <price>49.90</price>
+            </game><game>
+                                <ID>11</ID>
+                                <title>Call Of Duty: Ghosts</title>
+                                <category>gpc</category>
+                                <description>Benvenuti nell'universo di Call of Duty: Ghosts, uno straordinario passo avanti per uno dei piÃÂ¹ grandi franchise di sempre nel mondo dell'intrattenimento. Questo nuovo capitolo di Call of Duty ÃÂ¨ caratterizzato da una dinamica totalmente rinnovata, che vede i giocatori schierati in difesa di una nazione devastata, che non combatte tanto per la libertÃÂ  o l'indipendenza, quanto semplicemente per sopravvivere.</description>
+                                <image>../immagini/games/pc/codpc.jpg</image>
+                                <date>05-11-2014</date>
+                                <price>39.90</price>
+            </game><game>
+                                <ID>12</ID>
+                                <title>Far Cry 4</title>
+                                <category>gpc</category>
+                                <description>Nascosta tra le maestose vette dell'Himalaya si trova la regione del Kyrat, un paese ricco di tradizioni ma anche di violenza. Nei panni di Ajay Ghale hai raggiunto il Kyrat per esaudire l'ultimo desiderio di tua madre, ma presto sarai coinvolto in una spietata guerra civile per rovesciare il regime del dittatore Pagan Min. Scopri un vasto scenario liberamente esplorabile, dove pericoli e imprevisti si nascondono dietro a ogni angolo. In questa selvaggia regione, ogni decisione conta e ogni secondo una nuova storia. Benvenuto nel Kyrat. </description>
+                                <image>../immagini/games/pc/farcry.jpg</image>
+                                <date>02-02-2015</date>
+                                <price>39.90</price>
+            </game><game>
+                                <ID>13</ID>
+                                <title>Battlefield 4</title>
+                                <category>gpc</category>
+                                <description>Battlefield 4 ÃÂ¨ il blockbuster che ridefinisce il genere, pieno di momenti che abbattono il confine tra gioco e gloria. Animato dalla potenza del motore di nuova generazione Frostbite 3, Battlefield 4 regala un'esperienza profonda e drammatica come nessun altro.            Solo in Battlefield puoi far saltare le fondamenta di una diga o ridurre in macerie un intero grattacielo. Solo in Battlefield comanderai un assalto navale dal ponte di una cannoniera. Battlefield ti dÃÂ  la libertÃÂ  di fare di piÃÂ¹ ed essere di piÃÂ¹, mettendo a frutto i tuoi punti di forza e aprendoti la strada verso la vittoria.</description>
+                                <image>../immagini/games/pc/battlefield.jpg</image>
+                                <date>31-10-2015</date>
+                                <price>19.99</price>
+            </game><game>
+                                <ID>15</ID>
+                                <title>Batman: Arkham Origins</title>
+                                <category>gpc</category>
+                                <description>Batman: Arkham Origins espande Gotham City e si presenta come un prequel la cui storia ÃÂ¨ ambientata prima degli eventi di Batman: Arkham Asylum e Batman: Arkham City, i primi due acclamati capitoli della serie. Ambientato prima della rivolta dei piÃÂ¹ pericolosi criminali di Gotham City, il gioco presenta un giovane e rozzo Batman che affronta un momento chiave nei primi passi della sua carriera di combattente del crimine lungo il percorso per diventare il Cavaliere Oscuro. Nel prosieguo della storia i giocatori incontreranno molti importanti personaggi per la prima volta.</description>
+                                <image>../immagini/games/pc/batman.jpg</image>
+                                <date>25-10-2013</date>
+                                <price>29.99</price>
+            </game><game>
+                                <ID>16</ID>
+                                <title>Evolve</title>
+                                <category>gpc</category>
+                                <description>Preferireste essere prede o predatori? Be, in questo gioco avrete la possibilitÃÂ  di essere entrambi, incarnando o degli abili cacciatori o mostri principalmente intenzionati a mangiarsi i loro avversari per evolversi e diventare invincibili!</description>
+                                <image>../immagini/games/pc/Evolve.jpg</image>
+                                <date>15-02-2015</date>
+                                <price>39.99</price>
+            </game><game>
+                                <ID>19</ID>
+                                <title>Dragon Ball: Xenoverse</title>
+                                <category>gpc</category>
+                                <description>Per la prima volta un picchiaduro ambientato nell'universo di Dragon Ball esce anche per PC: nel gioco avrete la possibilitÃÂ  di rivivere i combattimenti piÃÂ¹ famosi della serie vista dagli occhi di un personaggio da voi stessi creato. Ovviamente ÃÂ¨ molto interessante il comparto multigiocatore che prevede tornei e sfide di ogni genere, affrontabili scegliendo uno tra i numerosi personaggi giocabili.</description>
+                                <image>../immagini/games/pc/Dragon_Ball.jpg</image>
+                                <date>11-02-2015</date>
+                                <price>49.99</price>
+            </game><game>
+                                <ID>20</ID>
+                                <title>Dragon Age: Inquisition  GOTY</title>
+                                <category>gpc</category>
+                                <description>Dragon Age Inquisition ÃÂ¨ stato uno dei titoli piÃÂ¹ acclamati dello scorso anno, se non avete ancora provato il gioco BioWare, adesso ÃÂ¨ arrivato il momento giusto per farlo. Il terzo episodio della serie Dragon Age torna sugli scaffali dei negozi in una ricca confezione che include il gioco originale (aggiornato) e tutti i DLC pubblicati dal lancio, tra cui Jaws of Hakkon, Trespasser, The Descent, Spoilers of the Avvar e Spoils of the Qunari.</description>
+                                <image>../immagini/games/pc/Dragon_Age_Inquisition.jpg</image>
+                                <date>12-10-2015</date>
+                                <price>49.99</price>
+            </game><game>
+                                <ID>3</ID>
+                                <title>Need for Speed</title>
+                                <category>gpc</category>
+                                <description>Se amate le macchine e le corse clandestine non potete fare a meno di questo titolo! Electronic Arts ha infatti creato un reboot mozzafiato della serie, che garantisce numerosissime gare al cardiopalma.
+&#13;Il gioco vanta inoltre un sistema di potenziamento e di modifiche estetiche molto ampio, unito a una scelta non indifferente di automobili.</description>
+                                <image>../immagini/games/pc/need_for_speed_2015.png</image>
+                                <date>15-03-2016</date>
+                                <price>50.99</price>
+            </game><game>
+                                <ID>7</ID>
+                                <title>Razer Mamba 16000</title>
+                                <category>cpc</category>
+                                <description>Mouse da gaming d'avanguardia, semplice ma funzionale! l'impugnatura permette una piacevole sensazione all'utilizzo, abbinando comunque un'ottima reattivitÃÂ </description>
+                                <image>../immagini/games/pc/razer-mamba-gallery-02.png</image>
+                                <date>13-04-2015</date>
+                                <price>132.99</price>
+            </game><game>
+                                <ID>5</ID>
+                                <title>Razer Naga Mouse</title>
+                                <category>cpc</category>
+                                <description>Il mouse presenta 12 tasti laterali, i due scroll laterali e 2 bottoni preconfigurati per i DPI sul dorso sotto la rotella di scroll.</description>
+                                <image>../immagini/games/pc/razer-naga-2014-right-03.png</image>
+                                <date>12-11-2015</date>
+                                <price>99.99</price>
+            </game><game>
+                                <ID>2</ID>
+                                <title>Razer Blackwidow Chroma</title>
+                                <category>cpc</category>
+                                <description>Ottima per qualunque gioco, la tastiera permette un'esperienza di gioco incredibile, permettendo di raggiungere prestazioni migliori vista l'ottimizzazione del sistema meccanico dei pulsanti. ÃÂ inoltre possibile modificare i colori della luce di ogni tasto, in modo tale da renderli ancora piÃÂ¹ intuitivi e personalizzabili.</description>
+                                <image>../immagini/games/pc/razerblackwidowchroma.png</image>
+                                <date>25-01-2015</date>
+                                <price>128.99</price>
+            </game></games>

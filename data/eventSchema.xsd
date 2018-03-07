@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+
+!!!!!da aggiungere i path
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+targetNamespace="http://www.dominio.com"
+xmlns="http://www.dominio.com"
+elementFormDefault="qualified">
+
+    <xs:element name="eventi">
+    	<xs:complexType>
+    		<xs:sequence>
+    			<xs:element name="eventi" maxOccurs="unbounded" type="eventType"/>
+    		</xs:sequence>
+    	</xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="eventType">
+    	<xs:all>
+    		<xs:element name="ID" type="xs:positiveInteger"/>
+    		<xs:element name="title" type="xs:string"/>
+		<xs:element name="description" type="xs:string"/>
+    		<xs:element name="image" type="urlType"/>
+    		<xs:element name="date" type="xs:date"/>
+    	</xs:all>
+    </xs:complexType>
+
+</xs:schema>

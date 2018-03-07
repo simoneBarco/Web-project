@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xmlns="http://www.gameside.it"
+		xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+		xsd:schemaLocation="xsd:schemaLocation="http://tecnologie-web.studenti.math.unipd.it/tecweb/~sbarco/data/
+        gamesSchema.xsd">-->
+<games>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<game>
+                                <ID>1</ID>
+                                <title>Rise of the Tomb Rider</title>
+                                <category>gxbox</category>
+                                <description>Lara Croft ritorna ancora una volta, questa volta pronta  a svelare degli antichi misteri celati in Siberia. Un gioco promettente che dovrebe fare felici tutti i fan della saga.</description>
+                                <image>../immagini/games/xbox/Tomb_Rider.png</image>
+                                <date>10-11-2015</date>
+                                <price>44.99</price>
+            </game><game>
+                                <ID>4</ID>
+                                <title>Dark Souls III</title>
+                                <category>gxbox</category>
+                                <description>Mentre l'incendio svanisce e il mondo cade in rovina, lo sviluppatore FROMSOFTWARE e il direttore Hidetaka Miyazaki continuano l'amata serie Souls con Dark Souls III. Sia fan affezionati che nuovi si tufferanno nel gioco con un gratificante gameplay ed una grafica immersiva. Ora rimane solo la cenere...</description>
+                                <image>../immagini/games/xbox/dark-souls-3_xbox.jpg</image>
+                                <date>01-01-1980</date>
+                                <price>59.99</price>
+            </game><game>
+                                <ID>5</ID>
+                                <title>Need for Speed - ONE</title>
+                                <category>gxbox</category>
+                                <description>Se amate le macchine e le corse clandestine non potete fare a meno di questo titolo!  Electronic Arts ha infatti creato un reboot mozzafiato della serie, che garantisce numerosissime gare al cardiopalma.
+&#13;Il gioco vanta inoltre un sistema di potenziamento e di modifiche estetiche molto ampio, unito a una scelta non indifferente di automobili.</description>
+                                <image>../immagini/games/xbox/cover_4899.jpg</image>
+                                <date>05-11-2015</date>
+                                <price>50.99</price>
+            </game><game>
+                                <ID>10</ID>
+                                <title>Star Wars: Battlefront</title>
+                                <category>gxbox</category>
+                                <description>Gli AT-AT che avanzano nella tundra ghiacciata di Hoth, i Ribelli che sparano contro le speeder bike imperiali nelle foreste di Endor, gli intensi duelli spaziali tra Caccia Ala-X e caccia TIE. Rivivi queste e molte altre battaglie che hanno segnato la storia di Star WarsTM in Star Wars: Battlefront.</description>
+                                <image>../immagini/games/xbox/battlefront.png</image>
+                                <date>19-11-2015</date>
+                                <price>49.90</price>
+            </game><game>
+                                <ID>6</ID>
+                                <title>Let's Sing</title>
+                                <category>gxbox</category>
+                                <description>Dopo Guitar Hero e Rock Band, anche Let's Sing torna nella rinnovata edizione 2016: questa versione del gioco include una corposa modalitÃÂ  libera per cantare da soli e il pieno supporto per il multiplayer fino a otto giocatori, i quali potranno divertirsi cantando a squarciagola i 35 brani che compongono la tracklist di Let's Sing 2016. La lista dei brani include hit di successo come All About That Bass dei Meghan Trainor, Outside di Calvin Harris, Ghost di Ella Henderson o Uptown Funk di Mark Ronson e Bruno Marso, solamente per citarne alcune.</description>
+                                <image>../immagini/games/xbox/Lets_sing.jpg</image>
+                                <date>27-10-2015</date>
+                                <price>29.99</price>
+            </game><game>
+                                <ID>7</ID>
+                                <title>Wasteland</title>
+                                <category>gxbox</category>
+                                <description>Il sequel di Wasteland debutta su console con una ricchissima riedizione denominata Director's Cut. Questo pacchetto include il gioco originale aggiornato, con una grafica migliorata, modelli poligonali ridisegnati e ambientazioni piÃÂ¹ curate, un combat system rivisitato e un miglior bilanciamento del gameplay durante le battaglie. </description>
+                                <image>../immagini/games/xbox/Wasteland.jpg</image>
+                                <date>16-10-2015</date>
+                                <price>44.99</price>
+            </game><game>
+                                <ID>8</ID>
+                                <title>Fifa 16</title>
+                                <category>gxbox</category>
+                                <description>FIFA 16 si ÃÂ¨ rinnovato in ogni zona del campo, per offrire un'esperienza bilanciata, realistica ed entusiasmante e permetterti di giocare come vuoi per competere ai massimi livelli, il tutto corredato da nuovi modi per giocare!</description>
+                                <image>../immagini/games/xbox/fifa16.jpg</image>
+                                <date>24-09-2015</date>
+                                <price>59.99</price>
+            </game><game>
+                                <ID>9</ID>
+                                <title>La Terra di Mezzo: L'Ombra di Mordor</title>
+                                <category>gxbox</category>
+                                <description>Tu sei Talion, un Ranger del Cancello Nero, a guardia di Mordor che ÃÂ¨ rimasta indisturbata per secoli. In un batter d'occhio, tutto ti viene sottratto - i tuoi amici, la tua famiglia e la tua stessa vita. Risorto grazie ad uno spirito di vendetta, dovrai ora intraprendere una battaglia contro tutti coloro che ti hanno fatto del male. Lotta in ogni angolo di Mordor per scoprire la veritÃÂ  dello spirito che ti spinge, scopri le origini degli Anelli del Potere e costruisci la tua leggenda. Affronta il terribile Sauron in questo nuovo capitolo de "La Terra di Mezzo".</description>
+                                <image>../immagini/games/xbox/OmbraDiMordor.jpg</image>
+                                <date>03-10-2014</date>
+                                <price>29.99</price>
+            </game><game>
+                                <ID>11</ID>
+                                <title>Call Of Duty: Ghosts</title>
+                                <category>gxbox</category>
+                                <description>Benvenuti nell'universo di Call of Duty: Ghosts, uno straordinario passo avanti per uno dei piÃÂ¹ grandi franchise di sempre nel mondo dell'intrattenimento. Questo nuovo capitolo di Call of Duty ÃÂ¨ caratterizzato da una dinamica totalmente rinnovata, che vede i giocatori schierati in difesa di una nazione devastata, che non combatte tanto per la libertÃÂ  o l'indipendenza, quanto semplicemente per sopravvivere.</description>
+                                <image>../immagini/games/xbox/cod.jpg</image>
+                                <date>22-11-2013</date>
+                                <price>29.90</price>
+            </game><game>
+                                <ID>12</ID>
+                                <title>Grand Theft Auto V</title>
+                                <category>gxbox</category>
+                                <description>Grand Theft Auto V, l'acclamatissimo gioco a esplorazione libera di Rockstar Games, ÃÂ¨ ora disponibile per Xbox One.            Un giovane truffatore, un rapinatore di banche in pensione e uno spaventoso psicopatico si ritrovano nel mirino degli elementi piÃÂ¹ discutibili del mondo della malavita, del governo e dell'industria dello spettacolo: per sopravvivere dovranno mettere in atto una serie di audaci colpi, in una cittÃÂ  spietata dove non possono fidarsi di nessuno, men che meno l'uno dell'altro.</description>
+                                <image>../immagini/games/xbox/gta.jpg</image>
+                                <date>18-11-2014</date>
+                                <price>69.90</price>
+            </game><game>
+                                <ID>14</ID>
+                                <title>WRC 5</title>
+                                <category>gxbox</category>
+                                <description>Il gioco ufficiale dei capionati mondiali di Rally ÃÂ¨ finalmente ritornato nel mondo dei videogiochi, garantendo un'esperienza di gioco indimenticabile, con una grafica mozzafiato e uno stile di gioco del tutto migliorato, grazie anche al potente processore delle XBox ONE.  Il gioco presenta sia una modalitÃÂ  giocatore singolo che una multigiocatore online, nella quale potrete sfidare i vostri amici nei tracciati sterrati piÃÂ¹ belli.</description>
+                                <image>../immagini/games/xbox/Rally.jpg</image>
+                                <date>26-07-2015</date>
+                                <price>39.99</price>
+            </game><game>
+                                <ID>2</ID>
+                                <title>Halo 5</title>
+                                <category>gxbox</category>
+                                <description>Titolo di punta per casa Microsoft, Halo 5 ÃÂ¨ finalmente in vendita. Questa volta perÃÂ² non dovrete seguire solo i passi di Master Chief, storico protagonista della serie, ma anche dello Spartan Locke, nuovo protagonista posto a capo della squadra Rossa.
+&#13;Ancora una volta la minaccia nei confronti dell'universo e' grande, ma i nostri riusciranno ad arginarla</description>
+                                <image>../immagini/games/xbox/Halo_5.png</image>
+                                <date>27-10-2015</date>
+                                <price>40.99</price>
+            </game><game>
+                                <ID>16</ID>
+                                <title>Kit Play and Charge</title>
+                                <category>cxbox</category>
+                                <description>Il kit comprende un battery pack agli ioni di litio che si inserisce nel Wireless Controller e un cavo di ricarica per connettere il Controller alla console. Gli utenti possono continuare a giocare senza mai dover sostituire le batterie in dotazione con altre batterie usa e getta.</description>
+                                <image>../immagini/games/xbox/PC.png</image>
+                                <date>01-01-2014</date>
+                                <price>19.99</price>
+            </game><game>
+                                <ID>3</ID>
+                                <title>Xbox ONE</title>
+                                <category>cxbox</category>
+                                <description>L'ultima proposta di casa Microsoft nel campo dei videogiochi, comprende al suo interno anche il Kinect di ultima generazione. </description>
+                                <image>../immagini/games/xbox/Xbox_One_Console_Set.png</image>
+                                <date>22-11-2013</date>
+                                <price>360.99</price>
+            </game><game>
+                                <ID>15</ID>
+                                <title>Wired PC Controller</title>
+                                <category>cxbox</category>
+                                <description>Utilizzo su PC con cavo. Utilizzo con cavo o senza su Xbox One. 
+&#13;D-pad e tasti ri-disegnati. Design ergonomico.        </description>
+                                <image>../immagini/games/xbox/Controller.png</image>
+                                <date>01-01-2014</date>
+                                <price>49.99</price>
+            </game></games>

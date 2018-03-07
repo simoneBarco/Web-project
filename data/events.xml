@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xmlns="http://www.gameside.it"
+		xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+		xsd:schemaLocation="xsd:schemaLocation="http://tecnologie-web.studenti.math.unipd.it/tecweb/~sbarco/data/
+        eventSchema.xsd">-->
+<events>
+<event>
+                                <ID>7</ID>
+                                <title>prova xml2</title>
+                                <description>asdfasdfadasasdfas
+asfasdasd</description>
+                                <image>../immagini/noImg.jpg</image>
+                                <date>01-01-1980</date>
+                                
+                        </event><event>
+                                <ID>6</ID>
+                                <title>Torneo League of Legends</title>
+                                <description>Inizia il primo torneo di League of Legends targato GameSide! Ecco a voi le partite che si affronteranno in giornata:
+
+- 15.30 - 17.00:"PaduaAssassins" contro "La Compagnia della Landa"
+
+- 17.30 - 19: "TonsodDamage" contro "TeamSoloAdc"
+
+
+Chiunque sara' libero di enire a fare il tifo all'interno della giornata, ricordiamo che nel frattempo le postazioni per le console saranno comunque usufruibili. </description>
+                                <image>../immagini/events/league-legends-scholarship.png</image>
+                                <date>16-06-2016</date>
+                                
+                        </event><event>
+                                <ID>5</ID>
+                                <title>Torneo Mortal Kombat X</title>
+                                <description>Siete pronti a Kombattere? solo qui al Gameside sta per iniziare un torneo di Mortal Kombat!
+Quindi affinate le vostre abilita' in combattimento e preparate le fatality piu' sanguinose. 
+Chi diventera' il nuovo re del Mortal Kombat?
+
+Regole:
+-Tassa d'iscrizione: 5 euro
+-Torneo a gironi  con finali e semifinali
+-Finire l'avversario con una brutality garantisce un punto aggiuntivo al proprio punteggio.
+
+Premi:
+-1 classificato: bonus 20 euro su un acquisto in negozio.
+-2 classificato: bonus 10 euro su un acquisto in negozio
+</description>
+                                <image>../immagini/events/mortal-kombat-x.jpg</image>
+                                <date>20-05-2016</date>
+                                <comments><comment>
+                        <nr>1</nr>
+                        <nickname>foailrequiem</nickname>
+                        <dataEora>28-06-2016, 08:58</dataEora>
+                        <testo>Non vedo l'ora di partecipare!</testo>
+                    </comment></comments>
+                        </event></events>

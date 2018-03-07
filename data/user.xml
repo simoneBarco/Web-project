@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!-- xmlns="http://www.gameside.it"
+		xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+		xsd:schemaLocation="xsd:schemaLocation="http://tecnologie-web.studenti.math.unipd.it/tecweb/~sbarco/data/
+        userSchema.xsd">-->
+<database>
+
+    <utente>
+        <nome>utente1</nome>
+        <cognome>utente1</cognome>
+        <email>ut1@mail.com</email>
+        <nickname>ut1</nickname>
+        <pwd>ut1</pwd>
+    </utente>
+    <utente>
+        <nome>utente2</nome>
+        <cognome>utente2</cognome>
+        <email>ut2@mail.com</email>
+        <nickname>ut2</nickname>
+        <pwd>ut2</pwd>
+    </utente>
+
+
+            <utente>
+                <nome>Matteo</nome>
+                <cognome>Stabilini</cognome>
+                <nickname>foailrequiem</nickname>
+                <email>tiziocaiosempronio@gmail.com</email>
+                <pwd>ciaone</pwd>
+            </utente>
+            <utente>
+                <nome>admin</nome>
+                <cognome>admin</cognome>
+                <nickname>admin</nickname>
+                <email>admin@mail.com</email>
+                <pwd>admin</pwd>
+            </utente></database>
